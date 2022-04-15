@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "NEXA";
+    src: url("../public/fonts/Nexa\ Bold.otf");
+  }
+  @font-face {
+    font-family: "mulish";
+    src: url("../public/fonts/Mulish-Black.woff2");
+  }
+  @font-face {
+    font-family: "mulish2";
+    src: url("../public/fonts/Mulish-VariableFont_wght.ttf");
+  }
+
